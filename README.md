@@ -55,4 +55,4 @@ ThinkingFace Editor is proprietary software. See LICENSE for details.
 
 ---
 
-© 2025 Brian Caudill - All Rights Reserved
+© 2025 Actyra - All Rights Reserved
