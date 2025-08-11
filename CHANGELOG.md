@@ -2,6 +2,25 @@
 
 All notable changes to ThinkingFace Editor will be documented in this file.
 
+## [0.17.1] - 2025-08-11
+
+### Fixed
+- Claude Code integration path duplication issue
+- Stream management "already active" errors
+- Windows execution using PowerShell instead of batch files
+- Claude Code output visibility in chat interface
+
+### Improved
+- Comprehensive logging for Claude Code execution pipeline
+- Error messages for missing Claude Code installation
+- Stream cleanup with automatic old stream removal
+- PowerShell script execution for better Windows compatibility
+
+## [0.17.0] - 2025-08-10
+
+### Added
+- Major improvements to terminal, licensing, and process management
+
 ## [1.5.0] - 2025-08-03
 
 ### Added
